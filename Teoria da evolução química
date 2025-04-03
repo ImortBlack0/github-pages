@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teoria da Evolução Química</title>
+    <style>
+        /* Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Corpo do site */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        /* Header */
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 20px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        header .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            font-size: 2rem;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Seções */
+        .section {
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        .bg-lightblue {
+            background-color: #e3f2fd;
+        }
+
+        .bg-lightgreen {
+            background-color: #e8f5e9;
+        }
+
+        /* Container centralizado */
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        h2 {
+            color: #2e7d32;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        /* Imagens */
+        img {
+            width: 80%;
+            max-width: 600px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+        }
+
+        video {
+            width: 80%;
+            max-width: 800px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Teoria da Evolução Química</h1>
+            <nav>
+                <ul>
+                    <li><a href="#introducao">Introdução</a></li>
+                    <li><a href="#condicoes">Condições da Terra Primitiva</a></li>
+                    <li><a href="#reacoes">Reações Químicas</a></li>
+                    <li><a href="#origem">Origem da Vida</a></li>
+                    <li><a href="#conclusao">Conclusão</a></li>
+                    <li><a href="#multimedia">Multimídia</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="introducao" class="section">
+            <div class="container">
+                <h2>Introdução</h2>
+                <p>A teoria da evolução química propõe que a vida surgiu a partir de moléculas simples que, sob condições específicas, evoluíram para formas mais complexas. Esse processo é considerado um dos primeiros passos para o surgimento da vida na Terra.</p>
+            </div>
+        </section>
+
+        <section id="condicoes" class="section bg-lightblue">
+            <div class="container">
+                <h2>Condições da Terra Primitiva</h2>
+                <p>A atmosfera primitiva era composta principalmente de metano, amônia, dióxido de carbono e água. Não havia oxigênio livre. Fontes de energia como raios e radiação solar desempenhavam um papel crucial no processo de formação de moléculas orgânicas.<p>
+
+<p>Além das descargas elétricas e da radiação ultravioleta, o calor proveniente da atividade vulcânica e das fontes hidrotermais nos oceanos também pode ter contribuído para a síntese dessas moléculas. Experimentos como o de Miller-Urey demonstraram que, em condições semelhantes às da Terra primitiva, compostos orgânicos essenciais, como aminoácidos, poderiam se formar espontaneamente.</p>
+                <!-- Imagem da Terra Primitiva adicionada -->
+                <img src="https://pplware.sapo.pt/wp-content/uploads/2021/10/terra_primitiva00.jpg" alt="Terra Primitiva">
+            </div>
+        </section>
+
+        <section id="reacoes" class="section">
+            <div class="container">
+                <h2>Reações Químicas e Formação de Moléculas Orgânicas</h2>
+                <p>Experimentos, como o de Miller-Urey (1953), mostraram que é possível formar aminoácidos e outros compostos orgânicos a partir de gases simples e uma fonte de energia, como descargas elétricas. Esse experimento simulou as condições da atmosfera primitiva da Terra, misturando metano, amônia, hidrogênio e vapor d’água em um sistema fechado. Ao submeter essa mistura a descargas elétricas, que imitavam raios, os cientistas observaram a formação de aminoácidos, os blocos fundamentais das proteínas.<p>  
+
+<p>Esse experimento foi um marco na biogênese, pois forneceu evidências experimentais de que moléculas orgânicas essenciais à vida poderiam ter surgido espontaneamente na Terra primitiva. Outros estudos posteriores expandiram essa ideia, mostrando que açúcares, lipídios e até bases nitrogenadas dos ácidos nucleicos também poderiam ser formados em condições semelhantes.<p>  
+
+<p>Além disso, a descoberta de fontes hidrotermais nos oceanos e de meteoritos contendo aminoácidos reforçou a hipótese de que processos químicos naturais poderiam ter gerado os precursores da vida. Essas moléculas orgânicas podem ter se acumulado nos oceanos primitivos, interagindo e formando estruturas mais complexas, como coacervados e protocélulas, um passo crucial para a transição da química para a biologia. <p> 
+
+<p>Assim, experimentos como o de Miller-Urey ajudaram a fundamentar a teoria da evolução química, demonstrando que compostos essenciais à vida podem se formar a partir de condições naturais e sem intervenção biológica.</p>
+                <img src="https://img.odcdn.com.br/wp-content/uploads/2024/03/Experimento-Miller01-1024x735.jpg" alt="Experimento de Miller-Urey">
+            </div>
+        </section>
+
+        <section id="origem" class="section bg-lightgreen">
+            <div class="container">
+                <h2>A Origem da Vida</h2>
+                <p>A origem da vida é um dos maiores mistérios científicos. Após a formação das primeiras moléculas orgânicas na Terra primitiva, elas começaram a se organizar em estruturas mais complexas. Os coacervados, pequenas gotas de moléculas orgânicas suspensas em solução, podem ter sido um estágio intermediário no desenvolvimento da vida.<p>  
+
+<p>De acordo com a teoria da evolução química, essas moléculas orgânicas surgiram a partir de reações químicas impulsionadas por fontes de energia como descargas elétricas, radiação ultravioleta e calor vulcânico. Experimentos como o de Miller-Urey demonstraram que compostos orgânicos essenciais, como aminoácidos, poderiam ser sintetizados em condições semelhantes às da Terra primitiva.<p>  
+
+<p>Com o tempo, essas moléculas passaram a interagir de maneira mais organizada, formando estruturas semelhantes a membranas, capazes de isolar o ambiente interno do meio externo. Essa compartimentalização foi um passo fundamental para a origem das primeiras células primitivas. Além disso, moléculas autorreplicantes, como o RNA, podem ter desempenhado um papel crucial ao armazenar informações genéticas e catalisar reações químicas, dando início à evolução biológica. <p> 
+
+<p>Assim, a evolução química teria sido um processo gradual, que possibilitou a transição da matéria inorgânica para sistemas vivos, culminando no surgimento das primeiras formas de vida na Terra.
+Uma das hipóteses mais aceitas é a do Mundo do RNA, que sugere que o RNA foi a primeira molécula autorreplicante. O RNA possui propriedades únicas: pode armazenar informações genéticas, como o DNA, e atuar como catalisador de reações químicas, como proteínas. Com o tempo, essas moléculas podem ter evoluído para sistemas mais eficientes, eventualmente dando origem às primeiras células primitivas.<p>  
+
+<p>A hipótese do Mundo do RNA é sustentada por evidências de que certas moléculas de RNA, conhecidas como ribozimas, podem catalisar reações químicas essenciais, incluindo a sua própria replicação em determinadas condições. Isso sugere que o RNA poderia ter desempenhado um papel central no surgimento da vida antes do aparecimento das proteínas e do DNA. <p> 
+
+<p>Com a evolução, o RNA pode ter facilitado a síntese de proteínas, que passaram a desempenhar funções metabólicas mais complexas. Paralelamente, o DNA teria surgido como uma molécula mais estável para o armazenamento de informações genéticas, permitindo uma transmissão mais eficiente dos códigos biológicos ao longo das gerações.<p>  
+
+<p>A transição do Mundo do RNA para sistemas celulares mais complexos pode ter ocorrido dentro de estruturas semelhantes a protocélulas, compartimentos delimitados por membranas lipídicas que garantiam um ambiente interno favorável às reações bioquímicas. Esse processo gradual levou ao surgimento das primeiras células procarióticas, marcando a passagem da evolução química para a evolução biológica.
+Com a evolução desses sistemas, proteínas e membranas celulares começaram a desempenhar papéis fundamentais. As protocélulas, estruturas simples que envolviam material genético em membranas lipídicas, foram um passo crucial na transição para organismos vivos. O surgimento de processos metabólicos internos possibilitou que essas protocélulas se tornassem cada vez mais independentes, levando à diversificação e complexidade biológica.<p>  
+
+<p>À medida que essas protocélulas evoluíam, mecanismos de replicação mais eficientes foram se desenvolvendo, permitindo a transmissão hereditária de características vantajosas. A seleção natural começou a atuar sobre essas estruturas, favorecendo aquelas que possuíam mecanismos mais estáveis de reprodução e metabolismo.<p>  
+
+<p>Com o tempo, algumas protocélulas adquiriram a capacidade de utilizar fontes de energia do ambiente, como a absorção de moléculas orgânicas e, eventualmente, processos mais complexos como a quimiossíntese e a fotossíntese. Isso levou ao surgimento de organismos procariontes mais sofisticados, como as primeiras bactérias e arqueias.<p>  
+
+<p>Essa transição da evolução química para a biológica culminou na diversificação dos organismos vivos, permitindo a emergência de sistemas celulares mais organizados e, posteriormente, a formação das primeiras células eucarióticas. Dessa forma, a evolução química estabeleceu as bases para o desenvolvimento da vida na Terra, mostrando como processos naturais podem levar ao surgimento da complexidade biológica a partir de moléculas simples.</p>
+                <img src="https://www.javier-serrano.blog/images/Origen.vida.jpg" alt="Protocélulas">
+            </div>
+        </section>
+
+        <section id="conclusao" class="section">
+            <div class="container">
+                <h2>Conclusão</h2>
+                <p>A teoria da evolução química fornece uma explicação plausível para a origem da vida, mostrando como moléculas simples podem ter se organizado gradualmente até formar estruturas cada vez mais complexas. Desde a síntese espontânea de compostos orgânicos até a emergência das protocélulas, cada etapa desse processo foi essencial para a transição da matéria inorgânica para os primeiros organismos vivos.<p> 
+
+<p>O conceito do Mundo do RNA sugere que o RNA desempenhou um papel fundamental nesse processo inicial, atuando tanto como armazenador de informações quanto como catalisador de reações químicas. Com o tempo, proteínas e membranas celulares passaram a desempenhar funções especializadas, permitindo o surgimento de mecanismos metabólicos e de replicação mais eficientes. A seleção natural favoreceu os sistemas mais estáveis e autossuficientes, impulsionando a diversificação da vida.<p>
+
+<p>Portanto, a evolução química foi um passo crucial para o início da evolução biológica, preparando o caminho para a extraordinária diversidade de formas de vida que vemos hoje. Embora muitos detalhes sobre a origem da vida ainda sejam desconhecidos, os avanços científicos continuam a fornecer novas evidências e hipóteses, aproximando-nos cada vez mais da compreensão desse grande mistério da ciência.</p>
+            </div>
+        </section>
+
+        <section id="multimedia" class="section">
+            <div class="container">
+                <h2>Vídeo - Experimento de Miller-Urey</h2>
+                <video controls>
+                    <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/Miller-Urey_experiment_-_Work_by_the_C3BC_consortium%2C_licensed_under_CC-BY-3.0.webm/Miller-Urey_experiment_-_Work_by_the_C3BC_consortium%2C_licensed_under_CC-BY-3.0.webm.720p.vp9.webm" type="video/mp4">
+                    Seu navegador não suporta o elemento <code>video</code>.
+                </video>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Teoria da Evolução Química - Todos os direitos reservados<p> 
+ <p>Creditos - Alifer Lorran.t.c       </div>
+    </footer>
+</body>
+</html>
